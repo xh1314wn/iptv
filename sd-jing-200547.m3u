@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 ,BTV北京卫视高清
+http://61.148.223.18:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 ,BTV财*
+http://61.148.223.18:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 ,BTV国际频道
+http://61.148.223.18:8888/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 ,BTV卡酷少儿
+http://61.148.223.18:8888/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 ,BTV科教
+http://61.148.223.18:8888/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 ,BTV体育
+http://61.148.223.18:8888/newlive/live/hls/50/live.m3u8
+#EXTINF:-1 ,BTV文艺高清
+http://61.148.223.18:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 ,CCTV-10
+http://61.148.223.18:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 ,CCTV-12
+http://61.148.223.18:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 ,CCTV-13
+http://61.148.223.18:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 ,CCTV-14
+http://61.148.223.18:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 ,CCTV-15
+http://61.148.223.18:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 ,CCTV-2
+http://61.148.223.18:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 ,CCTV-3
+http://61.148.223.18:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 ,CCTV-4
+http://61.148.223.18:8888/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 ,CCTV-5
+http://61.148.223.18:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 ,CCTV5＋
+http://61.148.223.18:8888/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 ,CCTV-6
+http://61.148.223.18:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 ,CCTV-7
+http://61.148.223.18:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 ,CCTV-8
+http://61.148.223.18:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 ,CCTV-9高清
+http://61.148.223.18:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 ,CCTV-NEWS
+http://61.148.223.18:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 ,iPanda成都(熊猫频道官方-360P)
+http://gcalic.v.myalicdn.com/gc/ipanda_1md/index.m3u8
+#EXTINF:-1 ,iPanda成都(熊猫频道官方-540P)
+http://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8
+#EXTINF:-1 ,iPanda成都(熊猫频道官方-540P)
+http://gcalic.v.myalicdn.com/gc/ipanda_1hd/index.m3u8
+#EXTINF:-1 ,iPanda成都(熊猫频道官方-720P)
+http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1 ,iPanda大丰麋鹿(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰(熊猫频道官方-360P)
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1md/index.m3u8
+#EXTINF:-1 ,iPanda都江堰(熊猫频道官方-540P)
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1hd/index.m3u8
+#EXTINF:-1 ,iPanda都江堰(熊猫频道官方-720P)
+http://gcalic.v.myalicdn.com/gc/ipanda1000_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰(熊猫频道官方-720P)
+http://gctxyc.liveplay.myqcloud.com/gc/ipanda1000_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰妃妃(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰妃妃(熊猫频道官方-1080P)
+http://gctxyc.liveplay.myqcloud.com/gc/xiongmao13_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰青青(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰青青(熊猫频道官方-1080P)
+http://gctxyc.liveplay.myqcloud.com/gc/xiongmao20_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰瑞瑞(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰水秀(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰娅祥(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰壹壹玖玖(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰壹壹玖玖(熊猫频道官方-1080P)
+http://gctxyc.liveplay.myqcloud.com/gc/xiongmao14_1/index.m3u8
+#EXTINF:-1 ,iPanda都江堰英英(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+#EXTINF:-1 ,iPanda基地别墅①(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+#EXTINF:-1 ,iPanda基地别墅②(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+#EXTINF:-1 ,iPanda基地成年园①(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+#EXTINF:-1 ,iPanda基地成年园②(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+#EXTINF:-1 ,iPanda基地母子园①(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+#EXTINF:-1 ,iPanda怡然②(熊猫频道官方-1080P)
+http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://61.148.223.18:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://61.148.223.18:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://61.148.223.18:8888/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 ,广东卫视高清
+http://61.148.223.18:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 ,广西卫视
+http://61.148.223.18:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 ,贵州2HD(贵州移动[CDN]-1080P)
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州3(贵州移动[CDN]-720P)
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226125/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,贵州卫视
+http://61.148.223.18:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 ,贵州卫视HD(贵州移动[CDN]-1080P)
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226165/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,河南卫视
+http://61.148.223.18:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 ,湖北卫视高清
+http://61.148.223.18:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://61.148.223.18:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 ,吉林公共(官方-900P)
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 ,吉林公共新闻(官方-900P)
+http://stream1.jlntv.cn/ggpd/sd/live.m3u8?_upt=b95938311531576098
+#EXTINF:-1 ,吉林卫视
+http://61.148.223.18:8888/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 ,吉林乡村(JLNTV官方-240P)
+http://stream1.jlntv.cn/xcpd/sd/live.m3u8
+#EXTINF:-1 ,吉林影视(JLNTV官方-240P)
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://61.148.223.18:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 ,辽宁卫视高清
+http://61.148.223.18:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://61.148.223.18:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 ,蓬安新闻综合(官方-720P)
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 ,青岛城阳频道(官方-1080P)
+http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
+#EXTINF:-1 ,青海卫视
+http://61.148.223.18:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 ,汝州HD(河南大象融媒-1080P)
+http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+#EXTINF:-1 ,山东卫视高清
+http://61.148.223.18:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 ,陕西卫视
+http://61.148.223.18:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1 ,上蔡HD(河南大象融媒-1080P)
+http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+#EXTINF:-1 ,上虞1新闻综合(官方-1080P)
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://61.148.223.18:8888/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 ,嵊州综合(官方-720P)
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 ,唐河HD(河南大象融媒-1080P)
+http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+#EXTINF:-1 ,西藏卫视
+http://61.148.223.18:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 ,萧山新闻综合(官方-720P)
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 ,新昌新闻综合(官方-1080P)
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 ,新昌休闲影视(官方-1080P)
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 ,新疆卫视
+http://61.148.223.18:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 ,新罗电视二套(官方-1200P)
+http://stream.lyxltv.com/xinluotv/sd/live.m3u8
+#EXTINF:-1 ,新泰综合频道(官方-480P)
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+#EXTINF:-1 ,信号测试(贵州移动[CDN]-1080P)
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226142/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,余姚姚江文化(官方-1080P)
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 ,云南卫视
+http://61.148.223.18:8888/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 ,张家港新闻综合(官方-720P)
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 ,张家界电视台1(官方-240P)
+http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
+#EXTINF:-1 ,浙江公共新闻HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 ,浙江公共新闻HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 ,浙江国际HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 ,浙江国际HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 ,浙江好易购HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+#EXTINF:-1 ,浙江教科影视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 ,浙江教科影视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 ,浙江经济生活HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+#EXTINF:-1 ,浙江民生休闲HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 ,浙江钱江HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 ,浙江钱江HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1 ,浙江少儿HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 ,浙江少儿HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+#EXTINF:-1 ,浙江数码时代HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 ,浙江数码时代HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1 ,浙江卫视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,浙江卫视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,浙江卫视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
+#EXTINF:-1 ,浙江卫视HD(浙江中国蓝官方-1080P)
+http://hw-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+#EXTINF:-1 ,浙江卫视高清
+http://61.148.223.18:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 ,重庆卫视
+http://61.148.223.18:8888/newlive/live/hls/31/live.m3u8
